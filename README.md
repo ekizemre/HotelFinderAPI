@@ -1,4 +1,4 @@
-Katmanlı mimari ve Asenkron programlama kullanılmıştır.
-
+Katmanlı mimari ile geliştirilmiştir.
+EmreEkiz
 
 
